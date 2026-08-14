@@ -1,4 +1,4 @@
-powershell -Command "@'
+
 # Prachi Ghongade
 Data Analyst . SQL, Power BI . Pune
 
@@ -14,9 +14,8 @@ I build tools that make data easier to talk to -- literally. My work sits at the
 
 ## A Few Things Off the Resume
 
-- I practice yoga daily -- show up, do the work, don''t grip the outcome. Same rule applies to a dashboard as it does to a pose.
+- I practice yoga most days — it's where I learned that consistency beats intensity, on the mat and in a codebase.
 - I''d rather build something that looks like mine than something that looks like a template.
 
 Ask me about: turning ambiguous questions into clean SQL . what I''m learning next in AI . why ""just ship it"" beats ""make it perfect""
-'@ | Out-File -Encoding utf8 README.md"
 
