@@ -17,5 +17,4 @@ I build tools that make data easier to talk to -- literally. My work sits at the
 - I practice yoga most days — it's where I learned that consistency beats intensity, on the mat and in a codebase.
 - I''d rather build something that looks like mine than something that looks like a template.
 
-Ask me about: turning ambiguous questions into clean SQL . what I''m learning next in AI . why ""just ship it"" beats ""make it perfect""
 
