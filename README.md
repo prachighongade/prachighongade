@@ -18,3 +18,4 @@ I build tools that make data easier to talk to -- literally. My work sits at the
 - I''d rather build something that looks like mine than something that looks like a template.
 
 
+
