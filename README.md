@@ -6,6 +6,8 @@ Data Analyst . SQL, Power BI . Pune
 
 I build tools that make data easier to talk to -- literally. My work sits at the intersection of analytics and AI: turning raw numbers into answers people can actually use, without needing to know SQL to ask the question.
 
+From data → insights → decisions → impact.
+
 ## Things I''ve Shipped
 
 **[AskSQL](https://github.com/prachighongade/Ask-SQL-)** -- Natural language to SQL engine. Ask a question in plain English, get a query, an explanation, and the result. ``FastAPI`` ``DuckDB`` ``Llama 3.3 70B`` ``React``
