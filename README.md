@@ -1,6 +1,6 @@
 
 # Prachi Ghongade
-Data Analyst . SQL, Power BI . Pune
+ Analyst . SQL, Power BI . Pune
 
 [LinkedIn](https://www.linkedin.com/in/prachi-ghongade-a82167296/) . [GitHub](https://github.com/prachighongade) . [Email](mailto:Prachighonagde.@gmail.com)
 
