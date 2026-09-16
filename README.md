@@ -16,7 +16,7 @@ From data → insights → decisions → impact.
 
 ## A Few Things Off the Resume
 
-- I practice yoga most days — it's where I learned that consistency beats intensity, on the mat and in a codebase.
+- I practice yoga most days it's where I learned that consistency beats intensity, on the mat and in a codebase.
 - I''d rather build something that looks like mine than something that looks like a template.
 
 
