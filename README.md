@@ -4,7 +4,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/prachi-ghongade-a82167296/) . [GitHub](https://github.com/prachighongade) . [Email](mailto:Prachighonagde.@gmail.com)
 
-I build tools that make data easier to talk to -- literally. My work sits at the intersection of analytics and AI: turning raw numbers into answers people can actually use, without needing to know SQL to ask the question.
+Computer Science graduate with a keen interest in data, AI, and technology. I enjoy solving meaningful problems, learning through hands-on experience, and turning ideas into practical solutions. I’m committed to continuous growth and building a strong foundation in technology through curiosity, consistency, and purposeful work.
 
 From data → insights → decisions → impact.
 
