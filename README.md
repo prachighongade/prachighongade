@@ -14,10 +14,3 @@ From data → insights → decisions → impact.
 
 **AgroMind** -- Smart farming assistant combining ensemble ML with a multilingual chatbot, so farmers get crop and weather guidance in their own language. ``Random Forest`` ``XGBoost`` ``CNN`` ``LSTM`` ``Node.js`` ``Firebase``
 
-## A Few Things Off the Resume
-
-- I practice yoga most days it's where I learned that consistency beats intensity, on the mat and in a codebase.
-- I''d rather build something that looks like mine than something that looks like a template.
-
-
-
